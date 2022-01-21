@@ -14,8 +14,6 @@ Happ/src/main/java/com/example/ryangraphsudoku/domain/ISettingsStorage.kt,0/8/0
 t
 Dapp/src/main/java/com/example/ryangraphsudoku/domain/SudokuPuzzle.kt,0/4/048bcfd724d627f72b9de355784e3672429b3095
 q
-Aapp/src/main/java/com/example/ryangraphsudoku/common/BaseLogic.kt,a/b/ab719866968a20a177d53c310686747b92b7ea8c
-q
 Aapp/src/main/java/com/example/ryangraphsudoku/common/Extension.kt,0/e/0e60482ed345a6e85205e9108a13e5bbb8d9c59d
 „
 Tapp/src/main/java/com/example/ryangraphsudoku/common/ProductionDispatcherProvider.kt,5/5/55c61e6e0f87b2fced03af1af1ed54c770647ad8
@@ -27,8 +25,6 @@ Napp/src/main/java/com/example/ryangraphsudoku/common/TestDispatcherProvider.kt
 gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
 ;
 gradlew.bat,2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3
-z
-Japp/src/main/java/com/example/ryangraphsudoku/common/DispatcherProvider.kt,4/8/485585278b42e3213ad4f13993609f3b4bc916c4
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 A
@@ -39,3 +35,11 @@ X
 (app/src/main/proto/user_statistics.proto,0/b/0b5c891b3d4342f7bfc02bd76507a0ca8b0d6c7c
 V
 &app/src/main/proto/game_settings.proto,4/2/421b573d1218df1e2e74661d0c8be4dfaeea0fe9
+
+Qapp/src/main/java/com/example/ryangraphsudoku/persistence/LocalGameStorageImpl.kt,b/5/b5c4d3c97b318ebd2d67327ae4ae1207c650af6d
+v
+Fapp/src/main/java/com/example/ryangraphsudoku/persistence/DataStore.kt,8/d/8df116ac30fa7e52b390a05e09da37a68b5de484
+x
+Happ/src/main/java/com/example/ryangraphsudoku/domain/IGameDataStorage.kt,f/5/f59df690de9bb6b88ed26fc24e4788d09016a276
+w
+Gapp/src/main/java/com/example/ryangraphsudoku/domain/IGameRepository.kt,c/1/c105e4bebecfd0cf6c73c63cd4c9d56df8a7fbf6
