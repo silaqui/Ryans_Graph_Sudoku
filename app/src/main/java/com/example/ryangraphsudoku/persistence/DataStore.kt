@@ -31,9 +31,9 @@ private object GameSettingsSerializer : Serializer<GameSettings> {
     override suspend fun writeTo(t: GameSettings, output: OutputStream) = t.writeTo(output)
 
 }
-internal val Context.statsDataStore: DataStore<GameSettings> by dataStore(
+internal val Context.statsDataStore: DataStore<Statistics> by dataStore(
     fileName = "game_statistics.pb",
-    serializer = GameSettingsSerializer
+    serializer = StatisticsSerializer
 )
 
 private object StatisticsSerializer : Serializer<Statistics> {

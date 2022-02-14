@@ -198,6 +198,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/common/repository/src/main/java/com/clebre/data/webservice/SensorWebService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/doctor/app/src/main/java/com/clebre/doctor/sensor/SensorViewModel.kt">
           <value>
             <set />
